@@ -52,15 +52,33 @@ This repository provides a Python-based tool for detecting web trackers on URLs 
 * Google Chrome installed (for Selenium)
 * Dependencies listed in `requirements.txt`:
 
-  ```
-  requests
-  selenium
-  webdriver-manager
-  beautifulsoup4
-  pefile
-  dnspython
-  tkinter
-  ```
+```
+attrs==25.3.0
+beautifulsoup4==4.12.2
+certifi==2025.4.26
+charset-normalizer==3.4.2
+dnspython==2.4.2
+exceptiongroup==1.3.0
+h11==0.16.0
+idna==3.10
+outcome==1.3.0.post0
+packaging==25.0
+pefile==2023.2.7
+PySocks==1.7.1
+python-dotenv==1.1.0
+requests==2.31.0
+selenium==4.32.0
+sniffio==1.3.1
+sortedcontainers==2.4.0
+soupsieve==2.7
+trio==0.30.0
+trio-websocket==0.12.2
+typing_extensions==4.13.2
+urllib3==2.4.0
+webdriver-manager==4.0.2
+websocket-client==1.8.0
+wsproto==1.2.0
+```
 
 ---
 
