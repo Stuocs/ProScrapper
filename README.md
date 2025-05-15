@@ -2,6 +2,9 @@
 
 This repository provides a Python-based tool for detecting web trackers on URLs and analyzing Windows executables for network-related imports. It features caching, logging, honeypot-based IP registration, Selenium fallback, and a simple Tkinter GUI.
 
+![image](https://github.com/user-attachments/assets/0860d901-35bb-47ee-aaaa-644839226a67)
+
+
 ---
 
 ## Features
