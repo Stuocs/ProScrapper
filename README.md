@@ -4,6 +4,8 @@ This repository provides a Python-based tool for detecting web trackers on URLs 
 
 ![image](https://github.com/user-attachments/assets/0860d901-35bb-47ee-aaaa-644839226a67)
 
+![image](https://github.com/user-attachments/assets/6006e6c4-be24-4b29-8f51-b41e3d1f89e1)
+
 
 ---
 
